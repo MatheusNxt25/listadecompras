@@ -11,7 +11,7 @@
     <h1>Escolha uma Lista</h1>
     <div class="box">
         <a class="a" href="sistema1.php" >Lista 1</a>
-        <a class="a" href="" >Lista 2</a>
-        <a class="a" href="" >Lista 3</a>
+        <a class="a" href="sistema2.php" >Lista 2</a>
+        <a class="a" href="sistema3.php" >Lista 3</a>
     </div>
 <body>
