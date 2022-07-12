@@ -33,7 +33,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body class="body">
-    <a href="sistema3.php" class="Voltar">Voltar</a>
+    <a href="CadastroList3.php" class="Voltar">Voltar</a>
     <div class="box">
         <form action="sistema3.php" method="post">
             <fieldset class="fieldset">

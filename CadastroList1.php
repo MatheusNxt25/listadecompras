@@ -35,7 +35,7 @@
 <body class="body">
     <a href="sistema1.php" class="Voltar">Voltar</a>
     <div class="box">
-        <form action="sistema1.php" method="post">
+        <form action="CadastroList1.php" method="post">
             <fieldset class="fieldset">
                 <legend class="legend"><b>Lista 1</b></legend>
                 <br>
