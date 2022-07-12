@@ -15,7 +15,7 @@ Lista de compras em PHP WEB e MYSQL
   <P> Produto (Tipo:VARCHAR(100))<P/>
    <P>Unidade (Tipo:INT(100))<P/>
 
-<P>5 - Usando XAMPP , coloque a pasta "listadecompras" , dentro da pasta do C:\xampp\htdocs;<P/>
+<P>5 - Usando XAMPP ,renomeia pasta com os arquivos para "listadecompras" e coloque a pasta  , dentro da pasta do C:\xampp\htdocs;<P/>
 <P>6 - Execute o XAMPP ,dando START no APACHE e MYSQL;<P/>
 <P>7 - Entre no navegador e digite "http://localhost/listadecompras/home.php"<P/>
 <P>8 - FIM!!!<P/>
